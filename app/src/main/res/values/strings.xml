@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BuppeSanNiVas Gallery</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+
+    <string name="cast1_name">หมื่รสุนธรเทวา</string>
+    <string name="cast2_name">เกศสุรางค์</string>
+    <string name="cast3_name">หลวงสุรสาคร</string>
+    <string name="cast4_name">แม่มะลิ</string>
+    <string name="cast5_name">เรืองฤทธิ์</string>
+    <string name="cast6_name">แม่หญิงจันทร์วาด</string>
+    <string name="cast7_name">จ้าย</string>
+
+    <string name="def_name">คู่จิ้นแห่งปี</string>
+    <string name="def_page">หน้าแรก</string>
+    <string name="todo">TODO</string>
+
+</resources>
